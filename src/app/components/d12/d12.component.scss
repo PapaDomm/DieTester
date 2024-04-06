@@ -1,0 +1,106 @@
+.die{
+    transform-style: preserve-3d;
+    transform: rotateX(0deg) rotateY(-125deg);
+    .pent{
+        position: absolute;
+        width: 157.5px;
+        height: 150px;
+        background: #4169e1;
+        clip-path: polygon( 50% 0, 100% 38%, 90% 100%, 10% 100%, 0 38%);
+        transform-style: preserve-3d;
+        transform: translateZ(-200px);
+        
+      }
+    
+      .pent2{
+        position: absolute;
+        width: 157.5px;
+        height: 150px;
+        background: #c7d2f5;
+        clip-path: polygon( 50% 0, 100% 38%, 90% 100%, 10% 100%, 0 38%);
+        transform-style: preserve-3d;
+        transform: rotateY(-68deg) translateY(-34px) rotateX(18deg) translateZ(-150px) translateX(-90px);
+      }
+    
+      .pent3{
+        position: absolute;
+        width: 157.5px;
+        height: 150px;
+        background: #f11010;
+        clip-path: polygon( 50% 0, 100% 38%, 90% 100%, 10% 100%, 0 38%);
+        transform-style: preserve-3d;
+        transform: rotateY(72deg) translateY(2px) rotateX(-13deg) translateZ(-130px) translateX(100px);
+      }
+    
+      .pent4{
+        position: absolute;
+        width: 157.5px;
+        height: 150px;
+        background: #09e063ee;
+        clip-path: polygon( 50% 0, 100% 38%, 90% 100%, 10% 100%, 0 38%);
+        transform-style: preserve-3d;
+        transform: rotateY(144deg) translateY(2px) rotateX(-13deg)translateX(75px);
+      }
+    
+      .pent5{
+        position: absolute;
+        width: 157.5px;
+        height: 150px;
+        background: #e5e905cc;
+        clip-path: polygon( 50% 0, 100% 38%, 90% 100%, 10% 100%, 0 38%);
+        transform-style: preserve-3d;
+        transform: rotateY(-144deg) translateY(2px) rotateX(-13deg)translateX(-75px);
+      }
+    
+    
+    //   .pent6{
+    //     position: absolute;
+    //     width: 157.5px;
+    //     height: 150px;
+    //     background: #0cf5f567;
+    //     transform-style: preserve-3d;
+    //     clip-path: polygon( 50% 0, 100% 38%, 90% 100%, 10% 100%, 0 38%);
+    //     transform:  rotateY(180deg) rotateX(-180deg) translateY(90px);
+        
+    //   }
+    
+    //   .pent7{
+    //     position: absolute;
+    //     width: 157.5px;
+    //     height: 150px;
+    //     background: #04a040a8;
+    //     clip-path: polygon( 50% 0, 100% 38%, 90% 100%, 10% 100%, 0 38%);
+    //     transform-style: preserve-3d;
+    //     transform: rotateX(180deg) rotateY(36deg) translateY(90px) translateX(175px);
+    //   }
+    
+      .pent8{
+        position: absolute;
+        width: 157.5px;
+        height: 150px;
+        background: #f11010;
+        clip-path: polygon( 50% 0, 100% 38%, 90% 100%, 10% 100%, 0 38%);
+        transform-style: preserve-3d;
+        transform: rotateY(-72deg) translateY(2px) rotateX(-13deg) translateX(-315px);
+      }
+    
+      .pent9{
+        position: absolute;
+        width: 157.5px;
+        height: 150px;
+        background: #09e0634f;
+        clip-path: polygon( 50% 0, 100% 38%, 90% 100%, 10% 100%, 0 38%);
+        transform-style: preserve-3d;
+        transform: rotateY(-144deg) translateY(2px) rotateX(-13deg)translateX(75px);
+      }
+    
+      .pent10{
+        position: absolute;
+        width: 157.5px;
+        height: 150px;
+        background: #e5e9054f;
+        clip-path: polygon( 50% 0, 100% 38%, 90% 100%, 10% 100%, 0 38%);
+        transform-style: preserve-3d;
+        transform: rotateY(144deg) translateY(2px) rotateX(-13deg)translateX(-75px);
+      }
+}
